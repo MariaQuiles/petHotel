@@ -1,4 +1,4 @@
-# Welcome to the readme.md of petHotel (I hope is well explained, in case not you can ask me anything)
+# Welcome to the readme.md of petHotel (I hope it is well explained, in case not you can ask me anything)
 
 ## To Get Started
 
